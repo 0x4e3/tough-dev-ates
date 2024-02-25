@@ -25,11 +25,11 @@
 
 ## Event storming
 
-![Event storming](../attachments/event-storming.drawio.png)
+![Event storming](../attachments/step-0-event-storming.drawio.png)
 
 ## Модель данных
 
-![Data model](../attachments/data-model.drawio.png)
+![Data model](../attachments/step-0-data-model.drawio.png)
 
 ## Вопросы
 
